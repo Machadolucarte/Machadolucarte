@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Machado</h1>
-<h3 align="center">A passionate Machine Learning and Data Science student</h3>
+<h3 align="center">A passionate Machine Learning and Industrial Automation student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
